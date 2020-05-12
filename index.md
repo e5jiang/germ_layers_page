@@ -1,13 +1,20 @@
 ---
 layout: page
-title: Germ Layers and Cancer
+title: Germ Layers and Cancer!
 description: DSC 180B project
 ---
 
-##Background
+## Background
+Here is some information about the subjects in our project that will help in understanding.
 
-##Methods
+## Hypothesis
+The question we are interested in.
 
-##Results & Discussion
+## Methods
+What did we do to answer our hypothesis?
 
-##Conclusion
+## Results & Discussion
+Here is where all the viz and tables go
+
+## Conclusion
+Was our hypothesis correct? What did we discover?
