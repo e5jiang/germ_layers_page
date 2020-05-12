@@ -4,17 +4,17 @@ title: Germ Layers and Cancer!
 description: DSC 180B project
 ---
 
-## Background
+### Background
 Here is some information about the subjects in our project that will help in understanding.
 
-## Hypothesis
+### Hypothesis
 The question we are interested in.
 
-## Methods
+### Methods
 What did we do to answer our hypothesis?
 
-## Results & Discussion
+### Results & Discussion
 Here is where all the viz and tables go
 
-## Conclusion
+### Conclusion
 Was our hypothesis correct? What did we discover?
