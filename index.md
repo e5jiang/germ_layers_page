@@ -15,7 +15,7 @@ What did we do to answer our hypothesis?
 
 ### Results & Discussion
 Here is where all the viz and tables go
-![sample line chart](https://github.com/e5jiang/germ_layers_page/blob/gh-pages/assets/images/line.png "line chart")
+![sample line chart](assets/images/line.png "line chart")
 
 ### Conclusion
 Was our hypothesis correct? What did we discover?
