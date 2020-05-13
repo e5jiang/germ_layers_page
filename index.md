@@ -15,6 +15,7 @@ What did we do to answer our hypothesis?
 
 ### Results & Discussion
 Here is where all the viz and tables go
+![sample line chart](/assets/images/line.png "line chart")
 
 ### Conclusion
 Was our hypothesis correct? What did we discover?
