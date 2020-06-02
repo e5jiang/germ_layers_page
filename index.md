@@ -30,12 +30,11 @@ description: DSC 180B project
 ### Methods
 - Maftools were used for the majority of our analyses 
 #### Part 1: Mutated Gene Similarities
-1. Gathered MAF files from organs with at least 200 samples
-2. Compared differentially mutated genes with maftools' mafCompare (add link)
-
+ 1. Gathered MAF files from organs with at least 200 samples
+ 2. Compared differentially mutated genes with maftools' mafCompare (add link)
 #### Part 2: Survival Analysis
-1. Create survival plot (survival probability vs years after last followup) for each germ layer
-2. Used maftools' survGroup (ad link) to find genes associated with poor survival within each germ layer
+ 1. Create survival plot (survival probability vs years after last followup) for each germ layer
+ 2. Used maftools' survGroup (ad link) to find genes associated with poor survival within each germ layer
 
 ### Results & Discussion
 Here is where all the viz and tables go
