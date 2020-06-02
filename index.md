@@ -39,7 +39,7 @@ description: DSC 180B project
 
 ### Results & Discussion
 Here is where all the viz and tables go
-![sample line chart](assets/images/line.png "line chart")
+![Figure 2](assets/images/fig2.png "Figure 2") ![Overall Survival](assets/images/overall_surv.png "Figure 3a")
 
 ### Conclusion
 Was our hypothesis correct? What did we discover?
