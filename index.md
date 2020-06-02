@@ -39,7 +39,12 @@ description: DSC 180B project
 
 ### Results & Discussion
 Here is where all the viz and tables go
-![Figure 2](assets/images/fig2.png "Figure 2") ![Overall Survival](assets/images/overall_surv.png "Figure 3a")
+![Figure 2](assets/images/fig2.png "Figure 2") 
+
+| Ectoderm  | Mesoderm | Endoderm |
+| --------- | -------- | -------- |
+| ![Ectoderm Survival](assets/images/ecto_surv.png "Figure 3b") | ![Mesoderm Survival](assets/images/meso_surv.png "Figure 3d") | ![Endoderm Survival](assets/images/endo_surv.png "Figure 3c") |
+
 
 ### Conclusion
 Was our hypothesis correct? What did we discover?
