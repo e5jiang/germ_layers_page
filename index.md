@@ -37,11 +37,8 @@ description: DSC 180B project
  2. Used maftools' survGroup (ad link) to find genes associated with poor survival within each germ layer
 
 ### Results & Discussion
-Here is where all the viz and tables go
 
-| Differentially Mutated Genes | ----- | ------ |
-| --------- | -------- | -------- |
-| ![Figure 2](assets/images/fig2.png "Figure 2") | ------ | ----- | 
+![Figure 2](assets/images/fig2.png =250x) 
 
 
 | Ectoderm  | Mesoderm | Endoderm |
