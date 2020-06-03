@@ -38,7 +38,11 @@ description: DSC 180B project
 
 ### Results & Discussion
 Here is where all the viz and tables go
-![Figure 2](assets/images/fig2.png "Figure 2") 
+
+| Differentially Mutated Genes | ----- | ------ |
+| --------- | -------- | -------- |
+| ![Figure 2](assets/images/fig2.png "Figure 2") | ------ | ----- | 
+
 
 | Ectoderm  | Mesoderm | Endoderm |
 | --------- | -------- | -------- |
