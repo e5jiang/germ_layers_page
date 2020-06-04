@@ -45,6 +45,7 @@ description: DSC 180B project
 - Supports our hypothesis that mesoderm and endoderm have similar mutations
 
 <br/><br/>
+
 | --------- | -------- | -------- |
 | --------- | -------- | -------- |
 | <img src="assets/images/ecto_variant.png" width="400" > | <img src="assets/images/meso_variant.png" width="400" > | <img src="assets/images/endo_variant.png" width="400" > |
@@ -57,10 +58,51 @@ description: DSC 180B project
 
 <br/><br/>
 
+| --------- | -------- | -------- |
+| --------- | -------- | -------- |
+| <img src="assets/images/ecto_germ.png" width="400" > | <img src="assets/images/meso_germ.png" width="400" > | <img src="assets/images/endo_germ.png" width="400" > |
+- Oncoplots look at the top 10 mutated genes for each sample
+- Found that all layers share 3/10 top mutated genes: TTN, MUC16, and P53 
+- Mesoderm has the largest percentage of mutations that are multi-hit for the top 10 mutated genes 
+- Endoderm has mutations that are altered in 81.41% of the samples, which is the highest ratio
+- We expected mesoderm to have a similar percentages of genes that were altered, but found that mesoderm was only 65%
+- Endoderm having a higher variants per sample and the higher amount of frame shift deletions shows that mutations in the endoderm do not appear to be similar to that of mesoderm
+
+<br/><br/>
+
+<img src="assets/images/overall_surv.png" width="600" >
+- Ectoderm has the worst survival probability at every time point
+- Mesoderm has the highest survival probability
+- Endoderm had similar probabilities to ectoderm at 5 and 10 years; however still has higher survival probability than endoderm
+- We were expecting endoderm and mesoderm, but ectoderm ended up with the lowest probability
+
+<br/><br/>
+
 | Ectoderm  | Mesoderm | Endoderm |
 | --------- | -------- | -------- |
 | ![Ectoderm Survival](assets/images/ecto_surv.png "Figure 3b") | ![Mesoderm Survival](assets/images/meso_surv.png "Figure 3d") | ![Endoderm Survival](assets/images/endo_surv.png "Figure 3c") |
+- Ectoderm plot show that the brain significantly changed the survival probability of the layer
+- Endoderm plot organs have very similar survival probabilities, with exception of thyroid
+- Mesoderm plot organs are spread out relatively evenly
+
+<br/><br/>
+
+<img src="assets/images/overall_surv.png" width="1000" >
+- NOTE: If the ratio is 1 that means that the risks are the same. If it is greater than 1, then the risk is higher, and vice versa. An ratio of 1.5 means that the risk of dying is higher by 50%.
+
+<br/><br/>
+
+- Only chose the top 6 genes based on hazard ratios 
+- Endoderm consistently has the highest hazard ratio over one, two and three gene combinations
+- Although we only showed top 6, for the three gene combination there were 28 different combinations  in the endoderm with a hazard ratio > 1
+- Mesoderm and ectoderm typically has lower hazard ratio for all gene combinations
+- Mesoderm and endoderm do not have similar hazard ratios, contrary to our hypothesis
 
 
 ### Conclusion
-Was our hypothesis correct? What did we discover?
+- The survival rates for mesoderm and endoderm were less related than other combinations of layers
+- Closely related germ layers do not have similar survival rates (no correlation)
+- Differing Results:
+    - Ectoderm and mesoderm showed LOWER hazard ratios overall than endoderm; would expect endoderm to have worst survival estimate
+    - Survival plot shows ectoderm has worst survival estimate
+- Hypothesis supported in that endoderm and mesoderm share the most mutation similarity, but unsupported in that survival rates do not correlate with similar mutations
