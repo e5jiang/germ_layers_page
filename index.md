@@ -78,7 +78,7 @@ description: DSC 180B project
 
 | Ectoderm  | Mesoderm | Endoderm |
 | --------- | -------- | -------- |
-| ![Ectoderm Survival](assets/images/ecto_surv.png "Figure 3b") | ![Mesoderm Survival](assets/images/meso_surv.png "Figure 3d") | ![Endoderm Survival](assets/images/endo_surv.png "Figure 3c") |
+| <img src="assets/images/ecto_surv.png" width="400" > | <img src="assets/images/meso_surv.png" width="400" > | <img src="assets/images/endo_surv.png" width="400" > |
 - Ectoderm plot show that the brain significantly changed the survival probability of the layer
 - Endoderm plot organs have very similar survival probabilities, with exception of thyroid
 - Mesoderm plot organs are spread out relatively evenly
