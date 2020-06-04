@@ -47,7 +47,7 @@ description: DSC 180B project
 <br/><br/>
 
 
-| --------- | -------- | -------- |
+|  |  |  |
 | --------- | -------- | -------- |
 | <img src="assets/images/ecto_variant.png" width="400" > | <img src="assets/images/meso_variant.png" width="400" > | <img src="assets/images/endo_variant.png" width="400" > |
 - Missense mutation: a change in one DNA base pair that results in the substitution of one amino acid for another in the protein made by a gene
@@ -59,9 +59,12 @@ description: DSC 180B project
 <br/><br/>
 
 
-| --------- | -------- | -------- |
-| --------- | -------- | -------- |
-| <img src="assets/images/ecto_germ.png" width="400" > | <img src="assets/images/meso_germ.png" width="400" > | <img src="assets/images/endo_germ.png" width="400" > |
+<p float="left">
+  <img src="assets/images/ecto_germ.png" width="400" >
+  <img src="assets/images/meso_germ.png" width="400" >
+   <img src="assets/images/endo_germ.png" width="400" >
+</p>
+
 - Oncoplots look at the top 10 mutated genes for each sample
 - Found that all layers share 3/10 top mutated genes: TTN, MUC16, and P53 
 - Mesoderm has the largest percentage of mutations that are multi-hit for the top 10 mutated genes 
