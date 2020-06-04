@@ -47,9 +47,12 @@ description: DSC 180B project
 <br/><br/>
 
 
-|  |  |  |
-| --------- | -------- | -------- |
-| <img src="assets/images/ecto_variant.png" width="400" > | <img src="assets/images/meso_variant.png" width="400" > | <img src="assets/images/endo_variant.png" width="400" > |
+<p float="left">
+  <img src="assets/images/ecto_variant.png" width="400" >
+  <img src="assets/images/meso_variant.png" width="400" >
+  <img src="assets/images/endo_variant.png" width="400" >
+</p>
+
 - Missense mutation: a change in one DNA base pair that results in the substitution of one amino acid for another in the protein made by a gene
 - Nonsense mutation: point mutations in a sequence of DNA that results in a premature stop codon. Results in a shortened protein that may function improperly or not at all
 - Missense mutations most common for all three layers
@@ -62,7 +65,7 @@ description: DSC 180B project
 <p float="left">
   <img src="assets/images/ecto_germ.png" width="400" >
   <img src="assets/images/meso_germ.png" width="400" >
-   <img src="assets/images/endo_germ.png" width="400" >
+  <img src="assets/images/endo_germ.png" width="400" >
 </p>
 
 - Oncoplots look at the top 10 mutated genes for each sample
@@ -84,12 +87,16 @@ description: DSC 180B project
 <br/><br/>
 
 
-| Ectoderm  | Mesoderm | Endoderm |
-| --------- | -------- | -------- |
-| <img src="assets/images/ecto_surv.png" width="400" > | <img src="assets/images/meso_surv.png" width="400" > | <img src="assets/images/endo_surv.png" width="400" > |
+<p float="left">
+  <img src="assets/images/ecto_surv.png" width="400" >
+  <img src="assets/images/meso_surv.png" width="400" >
+  <img src="assets/images/endo_surv.png" width="400" >
+</p>
+
 - Ectoderm plot show that the brain significantly changed the survival probability of the layer
 - Endoderm plot organs have very similar survival probabilities, with exception of thyroid
 - Mesoderm plot organs are spread out relatively evenly
+
 
 <br/><br/>
 
