@@ -46,7 +46,8 @@ description: DSC 180B project
 
 <br/><br/>
 
-|  |  |  |
+
+| --------- | -------- | -------- |
 | --------- | -------- | -------- |
 | <img src="assets/images/ecto_variant.png" width="400" > | <img src="assets/images/meso_variant.png" width="400" > | <img src="assets/images/endo_variant.png" width="400" > |
 - Missense mutation: a change in one DNA base pair that results in the substitution of one amino acid for another in the protein made by a gene
@@ -57,7 +58,8 @@ description: DSC 180B project
 
 <br/><br/>
 
-|  |  |  |
+
+| --------- | -------- | -------- |
 | --------- | -------- | -------- |
 | <img src="assets/images/ecto_germ.png" width="400" > | <img src="assets/images/meso_germ.png" width="400" > | <img src="assets/images/endo_germ.png" width="400" > |
 - Oncoplots look at the top 10 mutated genes for each sample
@@ -78,6 +80,7 @@ description: DSC 180B project
 
 <br/><br/>
 
+
 | Ectoderm  | Mesoderm | Endoderm |
 | --------- | -------- | -------- |
 | <img src="assets/images/ecto_surv.png" width="400" > | <img src="assets/images/meso_surv.png" width="400" > | <img src="assets/images/endo_surv.png" width="400" > |
@@ -90,9 +93,6 @@ description: DSC 180B project
 <img src="assets/images/poor_genes.png" width="1000" >
 
 - NOTE: If the ratio is 1 that means that the risks are the same. If it is greater than 1, then the risk is higher, and vice versa. An ratio of 1.5 means that the risk of dying is higher by 50%
-
-<br/><br/>
-
 - Only chose the top 6 genes based on hazard ratios 
 - Endoderm consistently has the highest hazard ratio over one, two and three gene combinations
 - Although we only showed top 6, for the three gene combination there were 28 different combinations  in the endoderm with a hazard ratio > 1
