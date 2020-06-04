@@ -39,7 +39,15 @@ description: DSC 180B project
 ### Results & Discussion
 
 
-<img src="assets/images/fig2.png" width="400" >
+<img src="assets/images/fig2.png" width="500" >
+- Figure shows that the mutations between endoderm and mesoderm had the SMALLEST number of significant differentially mutated genes 
+- Mesoderm and endoderm have the MOST genes that share a similar distribution
+- Supports our hypothesis that mesoderm and endoderm have similar mutations
+
+| --------- | -------- | -------- |
+| --------- | -------- | -------- |
+| ![Ectoderm Variant](assets/images/ecto_variant.png "Figure 1") | ![Mesoderm Variant](assets/images/meso_variant.png "Figure 1") | ![Endoderm Variant](assets/images/endo_variant.png "Figure 1") |
+
 
 | Ectoderm  | Mesoderm | Endoderm |
 | --------- | -------- | -------- |
