@@ -45,7 +45,7 @@ description: DSC 180B project
 
 <br/><br/>
 
-| --------- | -------- | -------- |
+|  |  |  |
 | --------- | -------- | -------- |
 | <img src="assets/images/ecto_variant.png" width="400" > | <img src="assets/images/meso_variant.png" width="400" > | <img src="assets/images/endo_variant.png" width="400" > |
 - Missense mutation: a change in one DNA base pair that results in the substitution of one amino acid for another in the protein made by a gene
@@ -54,8 +54,9 @@ description: DSC 180B project
 - Nonsense mutations are the second most common mutations for ectoderm and mesoderm 
 - Endoderm has a higher proportion of frameshift deletions than ectoderm and mesoderm; are more harmful mutations than most
 
+<br/><br/>
 
-| --------- | -------- | -------- |
+|  |  |  |
 | --------- | -------- | -------- |
 | <img src="assets/images/ecto_germ.png" width="400" > | <img src="assets/images/meso_germ.png" width="400" > | <img src="assets/images/endo_germ.png" width="400" > |
 - Oncoplots look at the top 10 mutated genes for each sample
