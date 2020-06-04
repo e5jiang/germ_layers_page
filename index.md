@@ -39,6 +39,7 @@ description: DSC 180B project
 
 
 <img src="assets/images/fig2.png" width="600" >
+
 - Figure shows that the mutations between endoderm and mesoderm had the SMALLEST number of significant differentially mutated genes 
 - Mesoderm and endoderm have the MOST genes that share a similar distribution
 - Supports our hypothesis that mesoderm and endoderm have similar mutations
@@ -69,6 +70,7 @@ description: DSC 180B project
 <br/><br/>
 
 <img src="assets/images/overall_surv.png" width="600" >
+
 - Ectoderm has the worst survival probability at every time point
 - Mesoderm has the highest survival probability
 - Endoderm had similar probabilities to ectoderm at 5 and 10 years; however still has higher survival probability than endoderm
@@ -86,7 +88,8 @@ description: DSC 180B project
 <br/><br/>
 
 <img src="assets/images/poor_genes.png" width="1000" >
-- NOTE: If the ratio is 1 that means that the risks are the same. If it is greater than 1, then the risk is higher, and vice versa. An ratio of 1.5 means that the risk of dying is higher by 50%.
+
+- NOTE: If the ratio is 1 that means that the risks are the same. If it is greater than 1, then the risk is higher, and vice versa. An ratio of 1.5 means that the risk of dying is higher by 50%
 
 <br/><br/>
 
