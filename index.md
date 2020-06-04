@@ -46,7 +46,7 @@ description: DSC 180B project
 
 | --------- | -------- | -------- |
 | --------- | -------- | -------- |
-| ![Ectoderm Variant](assets/images/ecto_variant.png "Figure 1") | ![Mesoderm Variant](assets/images/meso_variant.png "Figure 1") | ![Endoderm Variant](assets/images/endo_variant.png "Figure 1") |
+| <img src="assets/images/ecto_variant.png" width="400" > | <img src="assets/images/meso_variant.png" width="400" > | <img src="assets/images/endo_variant.png" width="400" > |
 
 
 | Ectoderm  | Mesoderm | Endoderm |
