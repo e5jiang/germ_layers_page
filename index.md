@@ -39,7 +39,7 @@ description: DSC 180B project
 ### Results & Discussion
 
 
-<img src="assets/images/fig2.png" width="250" >
+<img src="assets/images/fig2.png" width="400" >
 
 | Ectoderm  | Mesoderm | Endoderm |
 | --------- | -------- | -------- |
