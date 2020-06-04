@@ -9,7 +9,6 @@ description: DSC 180B project
 - Genetic mutations can be passed onto offspring and inheriting a damaged gene can put an individual at a higher risk for cancer
 - Genetic changes can also occur during a person's lifetime (known as somatic mutations)
 - Carcinogenic substances can damage DNA 
-- Hard to understand genetics of cancer because most cancers are not liked to a specific gene
 - Understanding how genetic changes affect cancer development is important because it can aid in prevention, prognosis, and treatment
 
 #### Embryonic develpoment
@@ -49,7 +48,6 @@ description: DSC 180B project
 | --------- | -------- | -------- |
 | --------- | -------- | -------- |
 | <img src="assets/images/ecto_variant.png" width="400" > | <img src="assets/images/meso_variant.png" width="400" > | <img src="assets/images/endo_variant.png" width="400" > |
-
 - Missense mutation: a change in one DNA base pair that results in the substitution of one amino acid for another in the protein made by a gene
 - Nonsense mutation: point mutations in a sequence of DNA that results in a premature stop codon. Results in a shortened protein that may function improperly or not at all
 - Missense mutations most common for all three layers
@@ -60,7 +58,7 @@ description: DSC 180B project
 
 | --------- | -------- | -------- |
 | --------- | -------- | -------- |
-| <img src="assets/images/ecto_germ.png" width="400" > | <img src="assets/images/meso_germ.png" width="400" > | <img src="assets/images/endo_germ.png" width="400" > |
+| <img src="assets/images/ecto_germ.png" width="300" > | <img src="assets/images/meso_germ.png" width="300" > | <img src="assets/images/endo_germ.png" width="300" > |
 - Oncoplots look at the top 10 mutated genes for each sample
 - Found that all layers share 3/10 top mutated genes: TTN, MUC16, and P53 
 - Mesoderm has the largest percentage of mutations that are multi-hit for the top 10 mutated genes 
@@ -87,7 +85,7 @@ description: DSC 180B project
 
 <br/><br/>
 
-<img src="assets/images/overall_surv.png" width="1000" >
+<img src="assets/images/poor_genes.png" width="1000" >
 - NOTE: If the ratio is 1 that means that the risks are the same. If it is greater than 1, then the risk is higher, and vice versa. An ratio of 1.5 means that the risk of dying is higher by 50%.
 
 <br/><br/>
