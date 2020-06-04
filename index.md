@@ -54,11 +54,10 @@ description: DSC 180B project
 - Nonsense mutations are the second most common mutations for ectoderm and mesoderm 
 - Endoderm has a higher proportion of frameshift deletions than ectoderm and mesoderm; are more harmful mutations than most
 
-<br/><br/>
 
 | --------- | -------- | -------- |
 | --------- | -------- | -------- |
-| <img src="assets/images/ecto_germ.png" width="300" > | <img src="assets/images/meso_germ.png" width="300" > | <img src="assets/images/endo_germ.png" width="300" > |
+| <img src="assets/images/ecto_germ.png" width="400" > | <img src="assets/images/meso_germ.png" width="400" > | <img src="assets/images/endo_germ.png" width="400" > |
 - Oncoplots look at the top 10 mutated genes for each sample
 - Found that all layers share 3/10 top mutated genes: TTN, MUC16, and P53 
 - Mesoderm has the largest percentage of mutations that are multi-hit for the top 10 mutated genes 
