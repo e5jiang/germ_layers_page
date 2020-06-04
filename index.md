@@ -48,9 +48,9 @@ description: DSC 180B project
 
 
 <p float="left">
-  <img src="assets/images/ecto_variant.png" width="400" >
-  <img src="assets/images/meso_variant.png" width="400" >
-  <img src="assets/images/endo_variant.png" width="400" >
+  <img src="assets/images/ecto_variant.png" width="450" >
+  <img src="assets/images/meso_variant.png" width="450" >
+  <img src="assets/images/endo_variant.png" width="450" >
 </p>
 
 - Missense mutation: a change in one DNA base pair that results in the substitution of one amino acid for another in the protein made by a gene
@@ -63,9 +63,9 @@ description: DSC 180B project
 
 
 <p float="left">
-  <img src="assets/images/ecto_germ.png" width="400" >
-  <img src="assets/images/meso_germ.png" width="400" >
-  <img src="assets/images/endo_germ.png" width="400" >
+  <img src="assets/images/ecto_germ.png" width="450" >
+  <img src="assets/images/meso_germ.png" width="450" >
+  <img src="assets/images/endo_germ.png" width="450" >
 </p>
 
 - Oncoplots look at the top 10 mutated genes for each sample
@@ -88,9 +88,9 @@ description: DSC 180B project
 
 
 <p float="left">
-  <img src="assets/images/ecto_surv.png" width="400" >
-  <img src="assets/images/meso_surv.png" width="400" >
-  <img src="assets/images/endo_surv.png" width="400" >
+  <img src="assets/images/ecto_surv.png" width="450" >
+  <img src="assets/images/meso_surv.png" width="450" >
+  <img src="assets/images/endo_surv.png" width="450" >
 </p>
 
 - Ectoderm plot show that the brain significantly changed the survival probability of the layer
